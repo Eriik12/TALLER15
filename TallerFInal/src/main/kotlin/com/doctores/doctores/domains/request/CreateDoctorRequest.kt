@@ -9,5 +9,4 @@ data class CreateDoctorRequest(
     val especialidad: String,
     val consultorio: Long,
     val correo: String?
-
 )

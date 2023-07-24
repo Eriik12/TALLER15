@@ -32,4 +32,4 @@ open class Doctor (
     @Column(name="created_at")
     open var createdAt: Instant = Instant.now(),
 
-)
+    )
